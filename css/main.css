@@ -52,6 +52,7 @@ header a {
 }
 .menu {
 	margin-top: 50px;
+	
 }
 .logo {
 	margin-top: 100px;
@@ -202,7 +203,7 @@ a {
 }
 
 .aboutUs {
-	margin-top: 250px;
+	margin-top: 300px;
 }
 .aboutUs__group {
 	box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.15);
@@ -221,3 +222,4 @@ a {
 	margin-bottom: 50px;
 	display:block;
 }
+
